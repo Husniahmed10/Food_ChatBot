@@ -25,3 +25,4 @@ Allows users to add items to their cart, remove items, and view order status in 
 ### FastAPI
 ### HTML/CSS
 ### PostgreSQL (husni_eatery database)
+
