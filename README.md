@@ -26,3 +26,4 @@ Allows users to add items to their cart, remove items, and view order status in 
 ### HTML/CSS
 ### PostgreSQL (husni_eatery database)
 
+[![Video Preview](images/video_thumbnail.png)](https://youtu.be/GnGlsr_NORI)
