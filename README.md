@@ -28,5 +28,5 @@ Allows users to add items to their cart, remove items, and view order status in 
 
 ## Click Below to See How It Works
 
-![chat-bot_preview](https://github.com/Husniahmed10/Food_ChatBot/assets/141121519/26d66baf-9ca7-4aef-badd-94f191db8d79)](https://youtu.be/GnGlsr_NORI)
+![chat-bot_preview](https://github.com/Husniahmed10/Food_ChatBot/assets/141121519/26d66baf-9ca7-4aef-badd-94f191db8d79)(https://youtu.be/GnGlsr_NORI)
 
