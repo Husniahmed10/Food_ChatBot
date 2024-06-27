@@ -21,10 +21,10 @@ Allows users to add items to their cart, remove items, and view order status in 
 
 ## Tech Stack:
 
-### Dialogflow
-### FastAPI
-### HTML/CSS
-### PostgreSQL (husni_eatery database)
+ Dialogflow
+ FastAPI
+ HTML/CSS
+ PostgreSQL (husni_eatery database)
 
 ## Click Below to See How It Works
 
