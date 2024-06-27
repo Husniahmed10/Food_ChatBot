@@ -26,5 +26,5 @@ Allows users to add items to their cart, remove items, and view order status in 
 ### HTML/CSS
 ### PostgreSQL (husni_eatery database)
 
-(![chat-bot_preview](https://github.com/Husniahmed10/Food_ChatBot/assets/141121519/6f07576f-21e8-47d4-b9e1-7a078e28b812)
+[!chat-bot_preview](https://github.com/Husniahmed10/Food_ChatBot/assets/141121519/6f07576f-21e8-47d4-b9e1-7a078e28b812)
 )](https://youtu.be/GnGlsr_NORI)
